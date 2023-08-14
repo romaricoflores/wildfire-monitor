@@ -1,0 +1,10 @@
+lat 50.448
+lon -121.597
+
+rossmoore lake
+
+conda info --envs --> see the list of conda virtual environments
+
+conda create --name ee --> create a new conda virtual environment
+
+conda list --> prints list of libraries in the virtual environment
